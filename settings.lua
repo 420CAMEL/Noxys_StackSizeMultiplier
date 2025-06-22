@@ -5,7 +5,7 @@ data:extend({
 		name = "Noxys_StackSizeMultiplier-multiplier",
 		setting_type = "startup",
 		minimum_value = 0.00001,
-		default_value = 20,
+		default_value = 1000,
 		maximum_value = 2147483647,
 		order = "a",
 	},
